@@ -5,8 +5,8 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on Machine Learning
-- 🌱 I’m currently learning Blockchain
+- 🔭 I’m currently working on Frontend
+- 🌱 I’m currently learning/Exploring Blockchain
 <!-- - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about . -->
